@@ -12,7 +12,7 @@ VIRUSES
 
 =======================================
 
-Published website : 
+Published website : https://thinhphat04.github.io/Virus_PJ_SEM01/
 
 =======================================
 
